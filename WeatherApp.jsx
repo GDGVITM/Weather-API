@@ -16,7 +16,7 @@ export default function WeatherApp(){
     }
     return(
         <>
-        <h2>Wearther App by Me</h2>
+        <h2>Weather App</h2>
         <SearchBox updateInfo={updateInfo}></SearchBox>
         <br></br>
         <InfoBox info={weatherInfo}></InfoBox>
