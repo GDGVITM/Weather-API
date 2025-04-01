@@ -13,7 +13,8 @@ Tech Stack
 - API: OpenWeatherMap.
 
 Screenshots
-![image](https://github.com/user-attachments/assets/98713df9-391e-40ec-9c34-2c8ed1908818)
+![image](https://github.com/user-attachments/assets/9efec802-5155-4691-bf52-ed792fc04617)
+
 
 
 Installation
